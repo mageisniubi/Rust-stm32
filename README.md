@@ -1,2 +1,2 @@
 # Rust-stm32
-Use embassy-stm32 Development
+Developed using rust action registers is stm32
